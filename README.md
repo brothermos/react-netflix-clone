@@ -1,6 +1,6 @@
 # netflix-clone
 
-This project using React and style by using styled-components
+This project using React and styled by using styled-components
 
 npm install
 
